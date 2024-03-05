@@ -19,7 +19,7 @@ The project handles information about pets with the following attributes:
 ## Getting Started
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone [https://github.com/RohanKatgave/Spring-Project-Pet.git]`
 2. Install dependencies: `mvn install`
 3. Run the application: `mvn spring-boot:run`
 
