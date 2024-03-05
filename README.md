@@ -34,8 +34,5 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 - Ensure your code follows the project's coding standards.
 - Submit a pull request with a clear description of your changes.
 
-## License
-This project is licensed under the [license name]. See the LICENSE file for more details.
-
 ## Contact
 For questions or inquiries about the project, feel free to contact [your contact information].
