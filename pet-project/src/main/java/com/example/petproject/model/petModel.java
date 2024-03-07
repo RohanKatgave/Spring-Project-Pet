@@ -19,6 +19,17 @@ public class petModel {
 	private String breed;
 	@NonNull
 	private String description;
+	
+	
+	public petModel() {
+	}
+
+	@Override
+	public String toString() {
+		return "petModel [id=" + id + ", name=" + name + ", age=" + age + ", breed=" + breed + ", description="
+				+ description + "]";
+	}
+	
 	public Long getId() {
 		return id;
 	}
